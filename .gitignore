@@ -16,6 +16,7 @@ compile_commands.json
 CTestTestfile.cmake
 
 __cmake_systeminformation/
+.cache/
 
 # =========================
 # Compiled binaries
